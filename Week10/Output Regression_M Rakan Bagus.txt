@@ -1,0 +1,864 @@
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6243, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6671, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6918, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6708, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5920, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6226, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 32.8070, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.8025, Accuracy: 51.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6585, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 37.8541, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.5751, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 13.0237, Accuracy: 2.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6543, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6721, Accuracy: 43.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6493, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6075, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6428, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6536, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 22.7480, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6592, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6050, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.9043, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 28.8724, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 24.4255, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7058, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6894, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 1.0494, Accuracy: 42.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.5949, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6278, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6083, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 11.9183, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6428, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6048, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 39.6715, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 28.5097, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 22.3055, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6253, Accuracy: 42.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6470, Accuracy: 42.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6433, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7849, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6125, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6168, Accuracy: 53.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 21.3051, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 2.4760, Accuracy: 27.50%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7756, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 39.3397, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 30.1766, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 21.3173, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6088, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6978, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6810, Accuracy: 52.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7312, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.8050, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7315, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 8.9163, Accuracy: 11.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7980, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6783, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.0394, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 15.7791, Accuracy: 1.00%
+Batch Size: 16, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 8.6826, Accuracy: 7.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6961, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6989, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6844, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6051, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6211, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6835, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 13.5744, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6194, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5972, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.4629, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 19.0735, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 9.3322, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6798, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.8019, Accuracy: 41.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6058, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6202, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6146, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6712, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 8.7626, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5755, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5926, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.2177, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.2897, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 10.4755, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.5977, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6493, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7082, Accuracy: 38.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7711, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5658, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5919, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 26.4524, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 3.5527, Accuracy: 2.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7191, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.2649, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 33.7104, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 23.9385, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6895, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5982, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7250, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7541, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6145, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6327, Accuracy: 52.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 3.8683, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6155, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6871, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 31.9880, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 11.1535, Accuracy: 6.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 3.6259, Accuracy: 24.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7102, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6590, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7846, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6301, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6386, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6273, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 7.6609, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6616, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6426, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 37.8617, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.3300, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 11.4636, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6562, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5934, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6202, Accuracy: 53.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6465, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6101, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6693, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 1.4016, Accuracy: 28.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6246, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6207, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.9331, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 16.7655, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 3.9876, Accuracy: 2.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7001, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6956, Accuracy: 38.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6613, Accuracy: 38.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7619, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5983, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5923, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 25.7051, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 2.3537, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7253, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 31.8106, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.4534, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 28.2883, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7527, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6591, Accuracy: 53.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6643, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7121, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7316, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7866, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.3522, Accuracy: 39.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7513, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6271, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 20.6775, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 3.9121, Accuracy: 30.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.2313, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7126, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6717, Accuracy: 52.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6923, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6258, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6426, Accuracy: 49.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6647, Accuracy: 49.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.7065, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6337, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6145, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 22.7486, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 2.9145, Accuracy: 8.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.6912, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7281, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7100, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6834, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6529, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7517, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.8171, Accuracy: 47.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.6257, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5905, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6197, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 28.3312, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 0.6162, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.6235, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6595, Accuracy: 41.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6877, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6692, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6559, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6351, Accuracy: 49.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7246, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 22.4370, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.7435, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6823, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.7983, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.3803, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 25.6241, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7021, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6746, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7326, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6783, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6891, Accuracy: 53.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6199, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 1.7602, Accuracy: 38.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6929, Accuracy: 46.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6854, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.9552, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 5.0338, Accuracy: 23.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 1.1550, Accuracy: 40.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6897, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7197, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6668, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6379, Accuracy: 47.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6302, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6443, Accuracy: 51.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.5325, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6756, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6267, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.5164, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 12.3376, Accuracy: 0.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.8137, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6924, Accuracy: 37.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7670, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6690, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6294, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6389, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6634, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.7130, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6044, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6032, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.1075, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 1.3019, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.7449, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8210, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7114, Accuracy: 43.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6901, Accuracy: 42.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.8155, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5931, Accuracy: 51.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6429, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 23.3127, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 2.1803, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.8091, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 35.7094, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 29.6030, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 23.0232, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.9582, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6572, Accuracy: 51.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6995, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.1329, Accuracy: 38.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6798, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.8322, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.8182, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6745, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6370, Accuracy: 52.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 5.1159, Accuracy: 13.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 1.0996, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.8405, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6386, Accuracy: 40.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7104, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7491, Accuracy: 38.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7721, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6824, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6669, Accuracy: 50.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.7533, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6383, Accuracy: 45.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6312, Accuracy: 53.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 14.2657, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 0.7833, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.7426, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8055, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.8968, Accuracy: 41.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 2.5324, Accuracy: 20.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6800, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.8414, Accuracy: 48.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7412, Accuracy: 49.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.6306, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6216, Accuracy: 48.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6356, Accuracy: 51.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 10.0996, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 0.6415, Accuracy: 44.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.6388, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7325, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6975, Accuracy: 36.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7182, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7566, Accuracy: 45.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5902, Accuracy: 50.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7520, Accuracy: 46.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 23.9558, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.3822, Accuracy: 29.50%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.8034, Accuracy: 44.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.6561, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 28.8866, Accuracy: 0.00%
+Batch Size: 16, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 24.0550, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7697, Accuracy: 43.50%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6386, Accuracy: 51.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6786, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.9662, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6545, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.8316, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 22.9193, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 7.1610, Accuracy: 16.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6878, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.8310, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 38.2009, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 29.8727, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6107, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7040, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6541, Accuracy: 52.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6363, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6201, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6184, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 24.3373, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 4.3491, Accuracy: 1.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6342, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 39.4297, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 32.8668, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 25.7345, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6822, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6041, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6837, Accuracy: 40.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6484, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5927, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6280, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 25.9086, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.7394, Accuracy: 30.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6481, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 39.8967, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.6731, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 24.8797, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6594, Accuracy: 44.50%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6186, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6225, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 3.7884, Accuracy: 2.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6015, Accuracy: 50.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5555, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.1490, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 8.8034, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 2.9211, Accuracy: 11.50%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 42.3767, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 37.8790, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 28.3689, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7160, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6678, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7094, Accuracy: 52.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.9569, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6365, Accuracy: 44.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6321, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 12.9132, Accuracy: 1.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.5453, Accuracy: 34.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6917, Accuracy: 51.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 35.3392, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 26.5539, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 19.9133, Accuracy: 1.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6595, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6445, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6711, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6252, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6083, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6421, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 25.0144, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7021, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6303, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 37.6210, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 32.7099, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 26.2385, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6660, Accuracy: 43.50%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7127, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6790, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.5854, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6276, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6213, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 23.7757, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6063, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5954, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.2105, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.1975, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 20.1663, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.5800, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6356, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6650, Accuracy: 42.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 2.4059, Accuracy: 24.50%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6146, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6102, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 30.8957, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 11.7315, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 3.3460, Accuracy: 2.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.9318, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 29.2116, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 28.0629, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6399, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5666, Accuracy: 51.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6313, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7189, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5923, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5964, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 15.4550, Accuracy: 1.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7534, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6799, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 40.8495, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 29.7621, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 11.1543, Accuracy: 5.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6562, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6682, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7034, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6630, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6291, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6508, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 16.7338, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7383, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6555, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 40.1820, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.2672, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 18.3367, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6844, Accuracy: 52.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6592, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6943, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6181, Accuracy: 51.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6951, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6731, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 14.0384, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6270, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5915, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.1838, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.2170, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 21.9991, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6542, Accuracy: 54.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6002, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6628, Accuracy: 42.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 2.2916, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5960, Accuracy: 51.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5805, Accuracy: 53.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 26.6856, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 11.3263, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 1.9355, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.4339, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 38.0280, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 26.7458, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6250, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6586, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6082, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7089, Accuracy: 52.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7026, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6825, Accuracy: 50.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.9495, Accuracy: 31.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5855, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6396, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.0764, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 4.5408, Accuracy: 16.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.5707, Accuracy: 33.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6997, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6133, Accuracy: 44.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7644, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6365, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6216, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6644, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 1.1850, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6535, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6278, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 24.6743, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 11.8179, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.1765, Accuracy: 29.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6724, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7069, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7373, Accuracy: 39.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6089, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6992, Accuracy: 42.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7546, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.5973, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5987, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5919, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 31.7093, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 8.1372, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.6285, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6883, Accuracy: 39.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6319, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6919, Accuracy: 42.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.0567, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5623, Accuracy: 51.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6279, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 30.5807, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 10.5169, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 1.4454, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.3135, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 32.3575, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 28.3358, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6550, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6382, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6769, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7135, Accuracy: 43.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6328, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6500, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.9121, Accuracy: 22.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6546, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6319, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.2402, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 11.1127, Accuracy: 1.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.3550, Accuracy: 36.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7166, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6695, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6540, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7191, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6302, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6167, Accuracy: 52.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 10.1969, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7610, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6819, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.3443, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 16.4594, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 8.5262, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7263, Accuracy: 51.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7445, Accuracy: 36.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6693, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6229, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6069, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6081, Accuracy: 50.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.1659, Accuracy: 29.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6172, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6024, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.9425, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 14.2335, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 1.7936, Accuracy: 30.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7263, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7232, Accuracy: 44.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6572, Accuracy: 40.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.5860, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6273, Accuracy: 54.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6137, Accuracy: 49.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 30.9113, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 11.5907, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 2.2568, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.1525, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 33.6401, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 27.7661, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8736, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6424, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6367, Accuracy: 46.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6827, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6812, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.7195, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 1.6177, Accuracy: 39.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7111, Accuracy: 48.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6258, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 25.5943, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 2.6239, Accuracy: 33.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 1.1848, Accuracy: 42.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.5831, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.8282, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7232, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6546, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6374, Accuracy: 51.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6814, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.7697, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6749, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6334, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 26.4995, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 1.3882, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.7798, Accuracy: 44.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6337, Accuracy: 42.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6460, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7644, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6747, Accuracy: 48.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6228, Accuracy: 50.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.8651, Accuracy: 46.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.6264, Accuracy: 44.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5787, Accuracy: 50.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6125, Accuracy: 47.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 19.8221, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 0.6332, Accuracy: 47.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.6507, Accuracy: 45.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6618, Accuracy: 49.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6699, Accuracy: 41.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6239, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.1206, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6100, Accuracy: 53.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6729, Accuracy: 45.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.0520, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 10.3135, Accuracy: 0.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 1.2771, Accuracy: 29.50%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.3563, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.9819, Accuracy: 0.00%
+Batch Size: 32, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 29.8893, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6546, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6065, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6958, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 4.4302, Accuracy: 24.50%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7285, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6071, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 31.5438, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 10.3210, Accuracy: 7.50%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 2.5305, Accuracy: 25.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.3927, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 38.5711, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 30.3135, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6345, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6973, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6574, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.8012, Accuracy: 25.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6178, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6185, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 31.3756, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 11.4869, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 3.2353, Accuracy: 5.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 28.0517, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.4656, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 27.7133, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6533, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6299, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6448, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7786, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5870, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6292, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 35.1417, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 12.9850, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7892, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 37.1528, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 39.1019, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 33.0524, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6119, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5564, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6012, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 11.5069, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7518, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6283, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 27.1829, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 24.7874, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 9.1331, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.5104, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.7726, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 33.7192, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6079, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6999, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6056, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 1.8710, Accuracy: 30.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6395, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5889, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 24.9903, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 3.1544, Accuracy: 22.50%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 2.2723, Accuracy: 37.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 35.6317, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 30.6378, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 26.3305, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6469, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6984, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7267, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6449, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6140, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6106, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 33.6654, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 6.6439, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.9047, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 35.3052, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.2415, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 23.7153, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6537, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6675, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6716, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6395, Accuracy: 47.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5910, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6338, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.8774, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.9146, Accuracy: 24.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6242, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.6458, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.0422, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 30.6783, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6801, Accuracy: 42.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6235, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6952, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 9.0005, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7484, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6467, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 35.2168, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 23.9621, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 11.4859, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.4492, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.2485, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 30.3074, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6343, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6128, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6783, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.8032, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5904, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5893, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.8656, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.9969, Accuracy: 32.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6595, Accuracy: 54.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.5146, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 29.1592, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 18.7762, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6526, Accuracy: 53.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6250, Accuracy: 51.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.5658, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7019, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6324, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6325, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 26.1736, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 4.5661, Accuracy: 2.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7188, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.1736, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 25.5235, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 29.4049, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6671, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5765, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6782, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6760, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.5884, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6311, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 28.4485, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.9475, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6224, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 35.2709, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.4557, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 28.4699, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6551, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6397, Accuracy: 51.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6455, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 8.6647, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7781, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.5964, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.5948, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 17.1616, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 9.5880, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.1965, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 31.2084, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 29.3076, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6335, Accuracy: 52.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6652, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.5613, Accuracy: 57.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.8758, Accuracy: 43.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6564, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6777, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 5.1731, Accuracy: 21.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.3769, Accuracy: 43.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7274, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 31.3946, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 17.4519, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 4.9189, Accuracy: 15.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6241, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6080, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.7659, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6725, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6214, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6248, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 8.3932, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6703, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6408, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 32.1452, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 18.3564, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 7.8825, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6575, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.8106, Accuracy: 37.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.8703, Accuracy: 43.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.5934, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6324, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6482, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 8.7156, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.5811, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.5793, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.7144, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 23.1225, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 4.2345, Accuracy: 3.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6452, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6766, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6697, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 9.9958, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6299, Accuracy: 51.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6275, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 31.5721, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 19.6803, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 8.4103, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 36.6910, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 34.0395, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 34.4575, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6215, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.5854, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6689, Accuracy: 50.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7240, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6941, Accuracy: 52.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6165, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 12.4191, Accuracy: 3.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 1.2387, Accuracy: 42.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6156, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.3759, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 27.9245, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 9.6967, Accuracy: 7.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8377, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7003, Accuracy: 47.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6007, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7572, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6331, Accuracy: 53.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6171, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 17.8182, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.8254, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.7144, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 39.1870, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 32.7238, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 15.6558, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7672, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6470, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6528, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6596, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6389, Accuracy: 52.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6363, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 10.9801, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6616, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6261, Accuracy: 46.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 30.5311, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 25.5856, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 10.3892, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8069, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7241, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6526, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 11.1075, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.7075, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6425, Accuracy: 53.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 29.5267, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 22.4133, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 10.5047, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 38.3727, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 35.6569, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [4, 8, 16], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 32.2762, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.7961, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6127, Accuracy: 51.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.8094, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7201, Accuracy: 44.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6109, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.8159, Accuracy: 41.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 10, Validation Loss (MSE): 2.3427, Accuracy: 29.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6774, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6720, Accuracy: 45.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 33.4853, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 2.9759, Accuracy: 21.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: ReLU, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.0226, Accuracy: 32.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.8064, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6569, Accuracy: 55.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.8086, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.7609, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6225, Accuracy: 52.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6402, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 10, Validation Loss (MSE): 1.0686, Accuracy: 29.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.7339, Accuracy: 44.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6732, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 30.9260, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 11.7924, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Sigmoid, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 2.0062, Accuracy: 29.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6566, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.7904, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.5808, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 10, Validation Loss (MSE): 0.6442, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6345, Accuracy: 49.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6883, Accuracy: 48.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 10, Validation Loss (MSE): 0.6332, Accuracy: 46.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 50, Validation Loss (MSE): 0.6027, Accuracy: 45.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.001, Epochs: 100, Validation Loss (MSE): 0.6133, Accuracy: 49.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 29.1602, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 1.7026, Accuracy: 25.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: Tanh, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 0.7031, Accuracy: 41.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 10, Validation Loss (MSE): 0.6897, Accuracy: 48.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 50, Validation Loss (MSE): 0.6602, Accuracy: 42.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.1, Epochs: 100, Validation Loss (MSE): 0.6850, Accuracy: 47.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 10, Validation Loss (MSE): 10.2746, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 50, Validation Loss (MSE): 0.6303, Accuracy: 54.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.01, Epochs: 100, Validation Loss (MSE): 0.6321, Accuracy: 50.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 10, Validation Loss (MSE): 33.4308, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 50, Validation Loss (MSE): 21.2644, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.001, Epochs: 100, Validation Loss (MSE): 9.4437, Accuracy: 0.50%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 10, Validation Loss (MSE): 34.3959, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 50, Validation Loss (MSE): 35.5632, Accuracy: 0.00%
+Batch Size: 64, Hidden Layers: [16, 32, 64], Activation: <lambda>, LR: 0.0001, Epochs: 100, Validation Loss (MSE): 33.5083, Accuracy: 0.00%
