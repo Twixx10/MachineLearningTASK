@@ -1,0 +1,962 @@
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.1, BS=16, Acc=0.8195
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.1, BS=32, Acc=0.8341
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.1, BS=64, Acc=0.8585
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.1, BS=128, Acc=0.8585
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.01, BS=16, Acc=0.8244
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.01, BS=32, Acc=0.8293
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.01, BS=128, Acc=0.8098
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.001, BS=16, Acc=0.7902
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.001, BS=32, Acc=0.7707
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.001, BS=64, Acc=0.7512
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.0001, BS=16, Acc=0.6439
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.0001, BS=64, Acc=0.5317
+Config: HL=[4], Act=ReLU, Ep=10, LR=0.0001, BS=128, Acc=0.5951
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.1, BS=16, Acc=0.8780
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.1, BS=32, Acc=0.7902
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.1, BS=64, Acc=0.8634
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.1, BS=128, Acc=0.8634
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.01, BS=16, Acc=0.8878
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.01, BS=32, Acc=0.8488
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.01, BS=64, Acc=0.8098
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.01, BS=128, Acc=0.8390
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.001, BS=16, Acc=0.7805
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.001, BS=32, Acc=0.8244
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.0001, BS=16, Acc=0.6585
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.0001, BS=32, Acc=0.6341
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.0001, BS=64, Acc=0.5610
+Config: HL=[4], Act=ReLU, Ep=25, LR=0.0001, BS=128, Acc=0.4488
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.1, BS=16, Acc=0.8634
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.1, BS=32, Acc=0.8829
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.1, BS=64, Acc=0.8293
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.1, BS=128, Acc=0.8439
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.01, BS=16, Acc=0.8537
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.01, BS=32, Acc=0.8878
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.01, BS=64, Acc=0.8488
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.01, BS=128, Acc=0.8488
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.001, BS=16, Acc=0.8000
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.001, BS=32, Acc=0.8195
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.001, BS=64, Acc=0.8146
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.0001, BS=16, Acc=0.7561
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.0001, BS=32, Acc=0.7805
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.0001, BS=64, Acc=0.7220
+Config: HL=[4], Act=ReLU, Ep=50, LR=0.0001, BS=128, Acc=0.5463
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.1, BS=16, Acc=0.8878
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.1, BS=32, Acc=0.8829
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.1, BS=64, Acc=0.8976
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.1, BS=128, Acc=0.8488
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.01, BS=16, Acc=0.8878
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.01, BS=32, Acc=0.8878
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.01, BS=64, Acc=0.8634
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.01, BS=128, Acc=0.8585
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.001, BS=16, Acc=0.8439
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.001, BS=32, Acc=0.8341
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.001, BS=64, Acc=0.8098
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.001, BS=128, Acc=0.8146
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.0001, BS=16, Acc=0.8098
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.0001, BS=32, Acc=0.7951
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.0001, BS=64, Acc=0.7756
+Config: HL=[4], Act=ReLU, Ep=100, LR=0.0001, BS=128, Acc=0.6976
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.1, BS=16, Acc=0.8488
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.1, BS=32, Acc=0.8683
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.1, BS=64, Acc=0.8341
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.1, BS=128, Acc=0.8341
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.01, BS=16, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.01, BS=32, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.01, BS=64, Acc=0.8000
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.01, BS=128, Acc=0.8049
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.001, BS=16, Acc=0.7805
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.001, BS=32, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.001, BS=64, Acc=0.7756
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.0001, BS=16, Acc=0.4976
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[4], Act=Sigmoid, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.1, BS=16, Acc=0.8585
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.1, BS=32, Acc=0.9024
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.1, BS=64, Acc=0.8683
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.1, BS=128, Acc=0.8780
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.01, BS=16, Acc=0.8146
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.01, BS=32, Acc=0.8146
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.01, BS=64, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.01, BS=128, Acc=0.8293
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.001, BS=32, Acc=0.8098
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.001, BS=128, Acc=0.7366
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.0001, BS=16, Acc=0.7220
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.0001, BS=32, Acc=0.5707
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.0001, BS=64, Acc=0.6390
+Config: HL=[4], Act=Sigmoid, Ep=25, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.1, BS=16, Acc=0.8293
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.1, BS=32, Acc=0.8927
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.1, BS=64, Acc=0.9024
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.1, BS=128, Acc=0.9024
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.01, BS=16, Acc=0.8537
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.01, BS=64, Acc=0.8390
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.01, BS=128, Acc=0.8293
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.001, BS=16, Acc=0.8000
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.001, BS=32, Acc=0.8000
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.0001, BS=16, Acc=0.7707
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.0001, BS=32, Acc=0.7561
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[4], Act=Sigmoid, Ep=50, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.1, BS=16, Acc=0.8878
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.1, BS=32, Acc=0.8780
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.1, BS=64, Acc=0.8780
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.1, BS=128, Acc=0.9415
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.01, BS=16, Acc=0.9073
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.01, BS=32, Acc=0.8878
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.01, BS=64, Acc=0.8780
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.01, BS=128, Acc=0.8585
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.001, BS=16, Acc=0.8098
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.001, BS=32, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.001, BS=128, Acc=0.8049
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.0001, BS=16, Acc=0.7951
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.0001, BS=32, Acc=0.7902
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.0001, BS=64, Acc=0.7707
+Config: HL=[4], Act=Sigmoid, Ep=100, LR=0.0001, BS=128, Acc=0.5610
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.1, BS=16, Acc=0.8195
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.1, BS=32, Acc=0.8780
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.1, BS=64, Acc=0.8488
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.1, BS=128, Acc=0.8341
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.01, BS=16, Acc=0.8195
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.01, BS=32, Acc=0.8244
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.01, BS=64, Acc=0.8146
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.01, BS=128, Acc=0.7902
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.001, BS=16, Acc=0.7902
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.001, BS=32, Acc=0.8000
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.001, BS=64, Acc=0.7805
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.001, BS=128, Acc=0.5902
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.0001, BS=16, Acc=0.6732
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.0001, BS=64, Acc=0.4829
+Config: HL=[4], Act=Tanh, Ep=10, LR=0.0001, BS=128, Acc=0.5512
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.1, BS=16, Acc=0.8976
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.1, BS=32, Acc=0.9220
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.1, BS=64, Acc=0.9317
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.1, BS=128, Acc=0.8683
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.01, BS=16, Acc=0.8878
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.01, BS=64, Acc=0.8195
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.01, BS=128, Acc=0.8293
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.001, BS=16, Acc=0.8098
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.001, BS=32, Acc=0.7902
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.001, BS=128, Acc=0.7707
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.0001, BS=16, Acc=0.7805
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.0001, BS=32, Acc=0.5659
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.0001, BS=64, Acc=0.6049
+Config: HL=[4], Act=Tanh, Ep=25, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.1, BS=16, Acc=0.8878
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.1, BS=32, Acc=0.9122
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.1, BS=64, Acc=0.8878
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.1, BS=128, Acc=0.8927
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.01, BS=16, Acc=0.9366
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.01, BS=32, Acc=0.8439
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.01, BS=64, Acc=0.8439
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.01, BS=128, Acc=0.8439
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.001, BS=16, Acc=0.8049
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.001, BS=32, Acc=0.8098
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.001, BS=64, Acc=0.8000
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.001, BS=128, Acc=0.8049
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.0001, BS=16, Acc=0.7805
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.0001, BS=32, Acc=0.7512
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.0001, BS=64, Acc=0.6976
+Config: HL=[4], Act=Tanh, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.1, BS=16, Acc=0.8780
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.1, BS=32, Acc=0.8829
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.1, BS=64, Acc=0.8780
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.1, BS=128, Acc=0.8780
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.01, BS=16, Acc=0.9610
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.01, BS=32, Acc=0.8927
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.01, BS=64, Acc=0.8683
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.01, BS=128, Acc=0.9024
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.001, BS=16, Acc=0.8195
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.001, BS=32, Acc=0.8341
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.001, BS=64, Acc=0.7854
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.001, BS=128, Acc=0.8000
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.0001, BS=32, Acc=0.7805
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.0001, BS=64, Acc=0.7463
+Config: HL=[4], Act=Tanh, Ep=100, LR=0.0001, BS=128, Acc=0.7659
+Config: HL=[4], Act=Linear, Ep=10, LR=0.1, BS=16, Acc=0.8000
+Config: HL=[4], Act=Linear, Ep=10, LR=0.1, BS=32, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=10, LR=0.1, BS=64, Acc=0.7707
+Config: HL=[4], Act=Linear, Ep=10, LR=0.1, BS=128, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=10, LR=0.01, BS=16, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=10, LR=0.01, BS=32, Acc=0.8098
+Config: HL=[4], Act=Linear, Ep=10, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=10, LR=0.01, BS=128, Acc=0.8049
+Config: HL=[4], Act=Linear, Ep=10, LR=0.001, BS=16, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=10, LR=0.001, BS=32, Acc=0.8098
+Config: HL=[4], Act=Linear, Ep=10, LR=0.001, BS=64, Acc=0.7415
+Config: HL=[4], Act=Linear, Ep=10, LR=0.001, BS=128, Acc=0.6341
+Config: HL=[4], Act=Linear, Ep=10, LR=0.0001, BS=16, Acc=0.7463
+Config: HL=[4], Act=Linear, Ep=10, LR=0.0001, BS=32, Acc=0.5707
+Config: HL=[4], Act=Linear, Ep=10, LR=0.0001, BS=64, Acc=0.6634
+Config: HL=[4], Act=Linear, Ep=10, LR=0.0001, BS=128, Acc=0.5073
+Config: HL=[4], Act=Linear, Ep=25, LR=0.1, BS=16, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=25, LR=0.1, BS=32, Acc=0.8049
+Config: HL=[4], Act=Linear, Ep=25, LR=0.1, BS=64, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=25, LR=0.1, BS=128, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=25, LR=0.01, BS=16, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=25, LR=0.01, BS=32, Acc=0.8049
+Config: HL=[4], Act=Linear, Ep=25, LR=0.01, BS=64, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=25, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=25, LR=0.001, BS=16, Acc=0.8000
+Config: HL=[4], Act=Linear, Ep=25, LR=0.001, BS=32, Acc=0.8000
+Config: HL=[4], Act=Linear, Ep=25, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=25, LR=0.001, BS=128, Acc=0.7756
+Config: HL=[4], Act=Linear, Ep=25, LR=0.0001, BS=16, Acc=0.7415
+Config: HL=[4], Act=Linear, Ep=25, LR=0.0001, BS=32, Acc=0.7122
+Config: HL=[4], Act=Linear, Ep=25, LR=0.0001, BS=64, Acc=0.4634
+Config: HL=[4], Act=Linear, Ep=25, LR=0.0001, BS=128, Acc=0.6098
+Config: HL=[4], Act=Linear, Ep=50, LR=0.1, BS=16, Acc=0.7707
+Config: HL=[4], Act=Linear, Ep=50, LR=0.1, BS=32, Acc=0.8000
+Config: HL=[4], Act=Linear, Ep=50, LR=0.1, BS=64, Acc=0.7659
+Config: HL=[4], Act=Linear, Ep=50, LR=0.1, BS=128, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=50, LR=0.01, BS=16, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=50, LR=0.01, BS=32, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=50, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=50, LR=0.01, BS=128, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=50, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=50, LR=0.001, BS=32, Acc=0.8049
+Config: HL=[4], Act=Linear, Ep=50, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=50, LR=0.001, BS=128, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=50, LR=0.0001, BS=16, Acc=0.7707
+Config: HL=[4], Act=Linear, Ep=50, LR=0.0001, BS=32, Acc=0.7707
+Config: HL=[4], Act=Linear, Ep=50, LR=0.0001, BS=64, Acc=0.7073
+Config: HL=[4], Act=Linear, Ep=50, LR=0.0001, BS=128, Acc=0.7024
+Config: HL=[4], Act=Linear, Ep=100, LR=0.1, BS=16, Acc=0.7854
+Config: HL=[4], Act=Linear, Ep=100, LR=0.1, BS=32, Acc=0.8146
+Config: HL=[4], Act=Linear, Ep=100, LR=0.1, BS=64, Acc=0.7610
+Config: HL=[4], Act=Linear, Ep=100, LR=0.1, BS=128, Acc=0.7610
+Config: HL=[4], Act=Linear, Ep=100, LR=0.01, BS=16, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=100, LR=0.01, BS=32, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.01, BS=64, Acc=0.7805
+Config: HL=[4], Act=Linear, Ep=100, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[4], Act=Linear, Ep=100, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[4], Act=Linear, Ep=100, LR=0.0001, BS=32, Acc=0.8195
+Config: HL=[4], Act=Linear, Ep=100, LR=0.0001, BS=64, Acc=0.7902
+Config: HL=[4], Act=Linear, Ep=100, LR=0.0001, BS=128, Acc=0.6780
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.1, BS=16, Acc=0.8488
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.1, BS=32, Acc=0.8634
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.1, BS=64, Acc=0.8341
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.1, BS=128, Acc=0.8439
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.01, BS=16, Acc=0.8195
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.01, BS=32, Acc=0.8146
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.01, BS=64, Acc=0.8146
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.01, BS=128, Acc=0.8244
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.001, BS=32, Acc=0.7659
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.001, BS=64, Acc=0.7561
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.001, BS=128, Acc=0.5317
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.0001, BS=16, Acc=0.5220
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[4], Act=Softmax, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.1, BS=16, Acc=0.8439
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.1, BS=32, Acc=0.8829
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.1, BS=64, Acc=0.8585
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.1, BS=128, Acc=0.8488
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.01, BS=16, Acc=0.8683
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.01, BS=32, Acc=0.8244
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.01, BS=64, Acc=0.8439
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.01, BS=128, Acc=0.8537
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.001, BS=16, Acc=0.8098
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.001, BS=32, Acc=0.7854
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.001, BS=64, Acc=0.7756
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.0001, BS=32, Acc=0.6683
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.0001, BS=64, Acc=0.7073
+Config: HL=[4], Act=Softmax, Ep=25, LR=0.0001, BS=128, Acc=0.7366
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.1, BS=16, Acc=0.8732
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.1, BS=32, Acc=0.8488
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.1, BS=64, Acc=0.8780
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.1, BS=128, Acc=0.8537
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.01, BS=16, Acc=0.8341
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.01, BS=64, Acc=0.8537
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.01, BS=128, Acc=0.8732
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.001, BS=16, Acc=0.8244
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.001, BS=64, Acc=0.8000
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.001, BS=128, Acc=0.8000
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.0001, BS=16, Acc=0.7659
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.0001, BS=32, Acc=0.7220
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.0001, BS=64, Acc=0.7268
+Config: HL=[4], Act=Softmax, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.1, BS=16, Acc=0.8585
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.1, BS=32, Acc=0.8927
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.1, BS=64, Acc=0.8829
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.1, BS=128, Acc=0.8927
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.01, BS=16, Acc=0.8488
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.01, BS=64, Acc=0.8293
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.01, BS=128, Acc=0.8537
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.001, BS=16, Acc=0.8000
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.001, BS=32, Acc=0.8049
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.001, BS=64, Acc=0.8000
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.001, BS=128, Acc=0.7854
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.0001, BS=16, Acc=0.8195
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.0001, BS=32, Acc=0.7854
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.0001, BS=64, Acc=0.6927
+Config: HL=[4], Act=Softmax, Ep=100, LR=0.0001, BS=128, Acc=0.7902
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.1, BS=16, Acc=0.8488
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.1, BS=32, Acc=0.8732
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.1, BS=64, Acc=0.9024
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.1, BS=128, Acc=0.8829
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.01, BS=16, Acc=0.8537
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.01, BS=32, Acc=0.8829
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.01, BS=64, Acc=0.8634
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.01, BS=128, Acc=0.8390
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.001, BS=16, Acc=0.8098
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.001, BS=64, Acc=0.7707
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.001, BS=128, Acc=0.5317
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=16, Acc=0.5756
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=64, Acc=0.5268
+Config: HL=[8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.1, BS=16, Acc=0.8829
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.1, BS=32, Acc=0.9171
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.1, BS=64, Acc=0.9024
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.1, BS=128, Acc=0.8780
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.01, BS=16, Acc=0.9268
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.01, BS=32, Acc=0.9024
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.01, BS=64, Acc=0.9463
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.01, BS=128, Acc=0.8878
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.001, BS=16, Acc=0.8195
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.001, BS=32, Acc=0.8146
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.001, BS=64, Acc=0.8098
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.001, BS=128, Acc=0.7659
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=16, Acc=0.7707
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=32, Acc=0.7415
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=64, Acc=0.5415
+Config: HL=[8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.1, BS=16, Acc=0.8585
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.1, BS=32, Acc=0.8049
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.1, BS=64, Acc=0.8585
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.1, BS=128, Acc=0.9317
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.01, BS=16, Acc=0.9610
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.01, BS=32, Acc=0.9415
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.01, BS=64, Acc=0.9659
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.01, BS=128, Acc=0.9122
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.001, BS=16, Acc=0.8537
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.001, BS=32, Acc=0.8293
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.001, BS=64, Acc=0.8195
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.001, BS=128, Acc=0.8098
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=16, Acc=0.8195
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=32, Acc=0.7415
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=64, Acc=0.6439
+Config: HL=[8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.1, BS=16, Acc=0.6976
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.1, BS=32, Acc=0.8878
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.1, BS=64, Acc=0.9366
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.1, BS=128, Acc=0.9610
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.01, BS=16, Acc=0.9707
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.01, BS=32, Acc=0.9659
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.01, BS=64, Acc=0.9902
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.01, BS=128, Acc=0.9854
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.001, BS=16, Acc=0.9220
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.001, BS=32, Acc=0.8732
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.001, BS=64, Acc=0.8634
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.001, BS=128, Acc=0.8195
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=16, Acc=0.8049
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=32, Acc=0.8000
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=64, Acc=0.7805
+Config: HL=[8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=128, Acc=0.7463
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=16, Acc=0.9268
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=32, Acc=0.8878
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=64, Acc=0.8537
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=128, Acc=0.8439
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=16, Acc=0.8244
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=32, Acc=0.8000
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=64, Acc=0.7854
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=128, Acc=0.8049
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=32, Acc=0.7659
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=64, Acc=0.4976
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=128, Acc=0.6000
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=16, Acc=0.9024
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=32, Acc=0.9463
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=64, Acc=0.9366
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=128, Acc=0.9073
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=16, Acc=0.8585
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=32, Acc=0.8244
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=64, Acc=0.8195
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=16, Acc=0.8000
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=32, Acc=0.8098
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=64, Acc=0.7512
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=128, Acc=0.7707
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=16, Acc=0.9073
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=32, Acc=0.9366
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=64, Acc=0.9756
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=128, Acc=0.9463
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=16, Acc=0.9366
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=32, Acc=0.8732
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=64, Acc=0.8537
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=128, Acc=0.8341
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=16, Acc=0.7902
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=32, Acc=0.8195
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=64, Acc=0.8098
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=16, Acc=0.7805
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=32, Acc=0.6390
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=16, Acc=0.9317
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=32, Acc=0.9561
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=64, Acc=0.9415
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=128, Acc=0.9659
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=16, Acc=0.9707
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=32, Acc=0.9220
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=64, Acc=0.9122
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=128, Acc=0.8634
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=32, Acc=0.7854
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=128, Acc=0.7854
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=16, Acc=0.7707
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=32, Acc=0.7463
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=64, Acc=0.7463
+Config: HL=[8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=128, Acc=0.5171
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.1, BS=16, Acc=0.8878
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.1, BS=32, Acc=0.9171
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.1, BS=64, Acc=0.8927
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.1, BS=128, Acc=0.8976
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.01, BS=16, Acc=0.8488
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.01, BS=32, Acc=0.8732
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.01, BS=64, Acc=0.8341
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.01, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.001, BS=64, Acc=0.7805
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.001, BS=128, Acc=0.7756
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=32, Acc=0.6146
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=64, Acc=0.5122
+Config: HL=[8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.1, BS=16, Acc=0.8732
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.1, BS=32, Acc=0.9415
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.1, BS=64, Acc=0.9415
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.1, BS=128, Acc=0.9122
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.01, BS=16, Acc=0.9756
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.01, BS=32, Acc=0.9220
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.01, BS=64, Acc=0.9122
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.01, BS=128, Acc=0.8829
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.001, BS=128, Acc=0.8049
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=16, Acc=0.7805
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=32, Acc=0.7024
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=64, Acc=0.6927
+Config: HL=[8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=128, Acc=0.7024
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.1, BS=16, Acc=0.8585
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.1, BS=32, Acc=0.9366
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.1, BS=64, Acc=0.9366
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.1, BS=128, Acc=0.9659
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.01, BS=16, Acc=0.9463
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.01, BS=32, Acc=0.9854
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.01, BS=64, Acc=0.9659
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.01, BS=128, Acc=0.9317
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.001, BS=16, Acc=0.8293
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.001, BS=32, Acc=0.8244
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.001, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=16, Acc=0.7902
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=64, Acc=0.7171
+Config: HL=[8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.1, BS=16, Acc=0.8683
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.1, BS=32, Acc=0.9220
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.1, BS=64, Acc=0.8732
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.1, BS=128, Acc=0.9561
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.01, BS=16, Acc=0.9854
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.01, BS=32, Acc=0.9610
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.01, BS=64, Acc=0.9854
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.01, BS=128, Acc=0.9707
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.001, BS=16, Acc=0.8927
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.001, BS=32, Acc=0.8683
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.001, BS=64, Acc=0.8244
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.001, BS=128, Acc=0.8146
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=16, Acc=0.8049
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=64, Acc=0.7707
+Config: HL=[8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=128, Acc=0.7610
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.1, BS=16, Acc=0.7707
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.1, BS=32, Acc=0.7610
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.1, BS=64, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.1, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.01, BS=16, Acc=0.7854
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.01, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.01, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.001, BS=128, Acc=0.7366
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.0001, BS=16, Acc=0.7415
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.0001, BS=32, Acc=0.6293
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.0001, BS=64, Acc=0.7415
+Config: HL=[8, 4], Act=Linear, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.1, BS=16, Acc=0.7366
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.1, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.1, BS=64, Acc=0.7805
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.1, BS=128, Acc=0.7854
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.01, BS=16, Acc=0.7805
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.01, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.01, BS=64, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.01, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.001, BS=32, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.0001, BS=16, Acc=0.7805
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.0001, BS=32, Acc=0.7512
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.0001, BS=64, Acc=0.6780
+Config: HL=[8, 4], Act=Linear, Ep=25, LR=0.0001, BS=128, Acc=0.6683
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.1, BS=16, Acc=0.7805
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.1, BS=32, Acc=0.7756
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.1, BS=64, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.1, BS=128, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.01, BS=16, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.01, BS=32, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.01, BS=64, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.0001, BS=16, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.0001, BS=32, Acc=0.7463
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.0001, BS=64, Acc=0.7561
+Config: HL=[8, 4], Act=Linear, Ep=50, LR=0.0001, BS=128, Acc=0.5415
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.1, BS=16, Acc=0.7659
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.1, BS=32, Acc=0.8000
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.1, BS=64, Acc=0.7805
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.1, BS=128, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.01, BS=16, Acc=0.7756
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.01, BS=32, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.01, BS=128, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.001, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.001, BS=128, Acc=0.7854
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.0001, BS=16, Acc=0.8049
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.0001, BS=32, Acc=0.7902
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.0001, BS=64, Acc=0.7659
+Config: HL=[8, 4], Act=Linear, Ep=100, LR=0.0001, BS=128, Acc=0.7659
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.1, BS=16, Acc=0.8927
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.1, BS=32, Acc=0.8585
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.1, BS=64, Acc=0.9171
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.1, BS=128, Acc=0.8927
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.01, BS=16, Acc=0.9122
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.01, BS=32, Acc=0.8732
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.01, BS=64, Acc=0.8585
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.01, BS=128, Acc=0.8000
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.001, BS=16, Acc=0.7854
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.001, BS=32, Acc=0.7756
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.001, BS=64, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.001, BS=128, Acc=0.5268
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=16, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=128, Acc=0.5707
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.1, BS=16, Acc=0.8732
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.1, BS=32, Acc=0.8878
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.1, BS=64, Acc=0.9171
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.1, BS=128, Acc=0.9268
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.01, BS=16, Acc=0.9415
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.01, BS=32, Acc=0.9073
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.01, BS=64, Acc=0.8829
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.01, BS=128, Acc=0.8488
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.001, BS=16, Acc=0.8390
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.001, BS=32, Acc=0.8098
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.001, BS=128, Acc=0.6488
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.1, BS=16, Acc=0.8195
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.1, BS=32, Acc=0.8927
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.1, BS=64, Acc=0.8927
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.1, BS=128, Acc=0.9171
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.01, BS=16, Acc=0.9220
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.01, BS=32, Acc=0.9268
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.01, BS=64, Acc=0.9171
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.01, BS=128, Acc=0.9073
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.001, BS=16, Acc=0.8585
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.001, BS=32, Acc=0.8341
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.001, BS=64, Acc=0.8195
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=16, Acc=0.7610
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.1, BS=16, Acc=0.8293
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.1, BS=32, Acc=0.8829
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.1, BS=64, Acc=0.9024
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.1, BS=128, Acc=0.9268
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.01, BS=16, Acc=0.9171
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.01, BS=32, Acc=0.9415
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.01, BS=64, Acc=0.9415
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.01, BS=128, Acc=0.9073
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.001, BS=16, Acc=0.8829
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.001, BS=32, Acc=0.8585
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.001, BS=64, Acc=0.8293
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.001, BS=128, Acc=0.8146
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=16, Acc=0.8146
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=32, Acc=0.7854
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=64, Acc=0.7366
+Config: HL=[8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.1, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.1, BS=32, Acc=0.8732
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.1, BS=64, Acc=0.8829
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.1, BS=128, Acc=0.8585
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.01, BS=16, Acc=0.8829
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.01, BS=32, Acc=0.9220
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.01, BS=64, Acc=0.8976
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.01, BS=128, Acc=0.8390
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.001, BS=16, Acc=0.8244
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.001, BS=32, Acc=0.7805
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.001, BS=64, Acc=0.7659
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=16, Acc=0.7366
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=32, Acc=0.7171
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.1, BS=16, Acc=0.9268
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.1, BS=32, Acc=0.8341
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.1, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.1, BS=128, Acc=0.9268
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.01, BS=16, Acc=0.9512
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.01, BS=32, Acc=0.9463
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.01, BS=64, Acc=0.9463
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.01, BS=128, Acc=0.9512
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.001, BS=16, Acc=0.9122
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.001, BS=32, Acc=0.8634
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.001, BS=64, Acc=0.8439
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.001, BS=128, Acc=0.8341
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[16, 8, 4], Act=ReLU, Ep=25, LR=0.0001, BS=128, Acc=0.5171
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.1, BS=16, Acc=0.7951
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.1, BS=32, Acc=0.8976
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.1, BS=64, Acc=0.9171
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.1, BS=128, Acc=0.9366
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.01, BS=16, Acc=0.9756
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.01, BS=32, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.01, BS=64, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.01, BS=128, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.001, BS=16, Acc=0.9512
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.001, BS=32, Acc=0.9073
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.001, BS=64, Acc=0.8634
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.001, BS=128, Acc=0.8293
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=16, Acc=0.7951
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=32, Acc=0.8195
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=50, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.1, BS=16, Acc=0.7610
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.1, BS=32, Acc=0.9171
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.1, BS=64, Acc=0.9317
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.1, BS=128, Acc=0.9171
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.01, BS=16, Acc=0.9610
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.01, BS=32, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.01, BS=64, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.01, BS=128, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.001, BS=16, Acc=0.9854
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.001, BS=32, Acc=0.9902
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.001, BS=64, Acc=0.9024
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.001, BS=128, Acc=0.9073
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=16, Acc=0.8195
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=32, Acc=0.8098
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=64, Acc=0.8341
+Config: HL=[16, 8, 4], Act=ReLU, Ep=100, LR=0.0001, BS=128, Acc=0.7659
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=16, Acc=0.8829
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=32, Acc=0.8634
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=64, Acc=0.8488
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.1, BS=128, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=16, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=32, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=64, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.01, BS=128, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=32, Acc=0.7512
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=16, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=10, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=16, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=32, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=64, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.1, BS=128, Acc=0.8976
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=16, Acc=0.8537
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=32, Acc=0.8488
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=64, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.01, BS=128, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=16, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=32, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=64, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.001, BS=128, Acc=0.7073
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=25, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=16, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=32, Acc=0.9171
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=64, Acc=0.8780
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.1, BS=128, Acc=0.9317
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=16, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=32, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=64, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.01, BS=128, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=16, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=32, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=64, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.001, BS=128, Acc=0.7659
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=16, Acc=0.7756
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=50, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=16, Acc=0.9171
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=32, Acc=0.9171
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=64, Acc=0.8878
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.1, BS=128, Acc=0.8878
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=16, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=32, Acc=0.9171
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=64, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.01, BS=128, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=16, Acc=0.8390
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=32, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=64, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Sigmoid, Ep=100, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.1, BS=16, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.1, BS=32, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.1, BS=64, Acc=0.8390
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.1, BS=128, Acc=0.8732
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.01, BS=16, Acc=0.8780
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.01, BS=64, Acc=0.8537
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.01, BS=128, Acc=0.8244
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.001, BS=16, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.001, BS=32, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.001, BS=64, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.001, BS=128, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=16, Acc=0.7610
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Tanh, Ep=10, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.1, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.1, BS=32, Acc=0.8390
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.1, BS=64, Acc=0.8976
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.1, BS=128, Acc=0.8829
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.01, BS=16, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.01, BS=32, Acc=0.9805
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.01, BS=64, Acc=0.9561
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.01, BS=128, Acc=0.8732
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.001, BS=16, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.001, BS=32, Acc=0.8341
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.001, BS=64, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.001, BS=128, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=16, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=32, Acc=0.7707
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=64, Acc=0.7610
+Config: HL=[16, 8, 4], Act=Tanh, Ep=25, LR=0.0001, BS=128, Acc=0.5707
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.1, BS=16, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.1, BS=32, Acc=0.8488
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.1, BS=64, Acc=0.8390
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.1, BS=128, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.01, BS=16, Acc=0.9317
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.01, BS=32, Acc=0.9073
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.01, BS=64, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.01, BS=128, Acc=0.9268
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.001, BS=16, Acc=0.8878
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.001, BS=32, Acc=0.8683
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.001, BS=64, Acc=0.8537
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.001, BS=128, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=32, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=64, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Tanh, Ep=50, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.1, BS=16, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.1, BS=32, Acc=0.8683
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.1, BS=64, Acc=0.8927
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.1, BS=128, Acc=0.9171
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.01, BS=16, Acc=0.9854
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.01, BS=32, Acc=0.9659
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.01, BS=64, Acc=0.9415
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.01, BS=128, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.001, BS=16, Acc=0.9512
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.001, BS=32, Acc=0.9659
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.001, BS=64, Acc=0.8780
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.001, BS=128, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=32, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=64, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Tanh, Ep=100, LR=0.0001, BS=128, Acc=0.8146
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.1, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.1, BS=32, Acc=0.7707
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.1, BS=64, Acc=0.8146
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.1, BS=128, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.01, BS=16, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.01, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.01, BS=64, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.01, BS=128, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.001, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.001, BS=64, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.001, BS=128, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.0001, BS=16, Acc=0.6878
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.0001, BS=32, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.0001, BS=64, Acc=0.5854
+Config: HL=[16, 8, 4], Act=Linear, Ep=10, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.1, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.1, BS=32, Acc=0.8146
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.1, BS=64, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.1, BS=128, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.01, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.01, BS=32, Acc=0.7756
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.01, BS=64, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.01, BS=128, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.001, BS=16, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.001, BS=128, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.0001, BS=32, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.0001, BS=64, Acc=0.7171
+Config: HL=[16, 8, 4], Act=Linear, Ep=25, LR=0.0001, BS=128, Acc=0.6683
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.1, BS=16, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.1, BS=32, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.1, BS=64, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.1, BS=128, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.01, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.01, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.001, BS=16, Acc=0.8049
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.0001, BS=16, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.0001, BS=32, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.0001, BS=64, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Linear, Ep=50, LR=0.0001, BS=128, Acc=0.6683
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.1, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.1, BS=32, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.1, BS=64, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.1, BS=128, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.01, BS=16, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.01, BS=32, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.01, BS=64, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.01, BS=128, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.001, BS=16, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.001, BS=32, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.001, BS=64, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.001, BS=128, Acc=0.7951
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.0001, BS=16, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.0001, BS=32, Acc=0.8000
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.0001, BS=64, Acc=0.7854
+Config: HL=[16, 8, 4], Act=Linear, Ep=100, LR=0.0001, BS=128, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.1, BS=16, Acc=0.7902
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.1, BS=32, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.1, BS=64, Acc=0.8439
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.1, BS=128, Acc=0.8585
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.01, BS=16, Acc=0.8927
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.01, BS=32, Acc=0.8634
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.01, BS=64, Acc=0.8488
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.01, BS=128, Acc=0.8195
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.001, BS=16, Acc=0.7805
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=10, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.1, BS=16, Acc=0.8244
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.1, BS=32, Acc=0.8439
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.1, BS=64, Acc=0.8878
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.1, BS=128, Acc=0.9268
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.01, BS=16, Acc=0.9268
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.01, BS=32, Acc=0.9268
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.01, BS=64, Acc=0.9122
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.01, BS=128, Acc=0.8732
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.001, BS=16, Acc=0.8488
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.001, BS=32, Acc=0.8244
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.001, BS=64, Acc=0.7610
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=16, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=32, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=25, LR=0.0001, BS=128, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.1, BS=16, Acc=0.8829
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.1, BS=32, Acc=0.8439
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.1, BS=64, Acc=0.9073
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.1, BS=128, Acc=0.8927
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.01, BS=16, Acc=0.9415
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.01, BS=32, Acc=0.9512
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.01, BS=64, Acc=0.9366
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.01, BS=128, Acc=0.9415
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.001, BS=16, Acc=0.8732
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.001, BS=32, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.001, BS=64, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.001, BS=128, Acc=0.7561
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=16, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=64, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=50, LR=0.0001, BS=128, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.1, BS=16, Acc=0.8098
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.1, BS=32, Acc=0.8390
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.1, BS=64, Acc=0.8927
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.1, BS=128, Acc=0.9024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.01, BS=16, Acc=0.9512
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.01, BS=32, Acc=0.9463
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.01, BS=64, Acc=0.9512
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.01, BS=128, Acc=0.9415
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.001, BS=16, Acc=0.9268
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.001, BS=32, Acc=0.8878
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.001, BS=64, Acc=0.8829
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.001, BS=128, Acc=0.8293
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=16, Acc=0.7512
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=32, Acc=0.5024
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=64, Acc=0.4976
+Config: HL=[16, 8, 4], Act=Softmax, Ep=100, LR=0.0001, BS=128, Acc=0.4976
+Hasil Terbaik: {'hidden_layers': [8, 4], 'activation': 'ReLU', 'epochs': 100, 'learning_rate': 0.01, 'batch_size': 64}
+Akurasi Terbaik: 0.9902
